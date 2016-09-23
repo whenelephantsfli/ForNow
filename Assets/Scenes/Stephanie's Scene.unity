@@ -37,7 +37,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44042677, g: 0.48898208, b: 0.569086, a: 1}
+  m_IndirectSpecularColor: {r: 0.4404268, g: 0.48898178, b: 0.5690858, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -268,7 +268,7 @@ Transform:
   - {fileID: 2056573951}
   - {fileID: 535917722}
   m_Father: {fileID: 0}
-  m_RootOrder: 13
+  m_RootOrder: 14
 --- !u!1 &4653953
 GameObject:
   m_ObjectHideFlags: 0
@@ -417,7 +417,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 417944, guid: 3b947753c36944ab882c80d5724adf3d, type: 2}
       propertyPath: m_RootOrder
-      value: 16
+      value: 15
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 3b947753c36944ab882c80d5724adf3d, type: 2}
@@ -3654,6 +3654,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 227362104}
   - 20: {fileID: 227362103}
+  - 45: {fileID: 227362105}
   m_Layer: 0
   m_Name: Water4AdvancedReflectionFirstPersonCharacter
   m_TagString: Untagged
@@ -3701,13 +3702,21 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 227362102}
-  m_LocalRotation: {x: -0.014519985, y: 0.6802015, z: 0.013478627, w: 0.73275745}
-  m_LocalPosition: {x: -93.19159, y: 7.853099, z: 3.137539}
+  m_LocalRotation: {x: -0.24302466, y: 0.67588294, z: 0.25349542, w: 0.6479671}
+  m_LocalPosition: {x: -149.50995, y: -116.3766, z: 18.407858}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 30
+--- !u!45 &227362105
+Skybox:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 227362102}
+  m_Enabled: 1
+  m_CustomSkybox: {fileID: 0}
 --- !u!1 &241433210
 GameObject:
   m_ObjectHideFlags: 0
@@ -4982,7 +4991,7 @@ Transform:
   - {fileID: 1291254308}
   - {fileID: 1723824940}
   m_Father: {fileID: 0}
-  m_RootOrder: 15
+  m_RootOrder: 16
 --- !u!1 &336587347
 GameObject:
   m_ObjectHideFlags: 0
@@ -5320,7 +5329,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 429212, guid: 77b929fd9edd6487796f665fcf72d710, type: 2}
       propertyPath: m_RootOrder
-      value: 4
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 82000010659859212, guid: 77b929fd9edd6487796f665fcf72d710,
         type: 2}
@@ -19880,7 +19889,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 437502, guid: 6cec8e1aceea74bacab4cc5c2eb62a1e, type: 2}
       propertyPath: m_RootOrder
-      value: 14
+      value: 13
       objectReference: {fileID: 0}
     - target: {fileID: 470736, guid: 6cec8e1aceea74bacab4cc5c2eb62a1e, type: 2}
       propertyPath: m_LocalPosition.y
@@ -28658,7 +28667,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 68.392006, y: -119.09901, z: -96.871}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 4
 --- !u!4 &1842049182 stripped
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 8b5f6bc9631f31241826ee584f035e78, type: 3}
@@ -32016,8 +32025,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2057317490}
-  m_LocalRotation: {x: -0, y: 1, z: -0, w: -0.00000004371139}
-  m_LocalPosition: {x: 13.3552265, y: 1.9422793, z: 36.523643}
+  m_LocalRotation: {x: -0.39840364, y: 0.013282112, z: 0.0057704393, w: 0.9170959}
+  m_LocalPosition: {x: 11.574064, y: -33.00347, z: 3.1806412}
   m_LocalScale: {x: 0.66806823, y: 0.66806805, z: 0.66806823}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
