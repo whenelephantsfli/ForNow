@@ -14,6 +14,57 @@ Material:
   stringTagMap: {}
   m_SavedProperties:
     serializedVersion: 2
-    m_TexEnvs: []
-    m_Floats: []
-    m_Colors: []
+    m_TexEnvs:
+    - first:
+        name: _BumpMap
+      second:
+        m_Texture: {fileID: 2800000, guid: 5c37781c04d327649831ff2d5328b57c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Cube
+      second:
+        m_Texture: {fileID: 8900000, guid: 65a7d442f1932344384c29c6fecc89c6, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 2800000, guid: 910c41b2783e6e0458da8f5dc891e71c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Spec_Gloss_Reflec_Masks
+      second:
+        m_Texture: {fileID: 2800000, guid: 910c41b2783e6e0458da8f5dc891e71c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _EdgeAlpha
+      second: 1
+    - first:
+        name: _FrezFalloff
+      second: 0
+    - first:
+        name: _FrezPow
+      second: 0
+    - first:
+        name: _Gloss
+      second: 0.67164177
+    - first:
+        name: _Metalics
+      second: 0.7307692
+    - first:
+        name: _Reflection
+      second: 0.11337543
+    - first:
+        name: _Shininess
+      second: 3.0000007
+    m_Colors:
+    - first:
+        name: _Color
+      second: {r: 1, g: 1, b: 1, a: 1}
+    - first:
+        name: _SpecColor
+      second: {r: 0.852459, g: 0.79542774, b: 0.6463316, a: 1}
