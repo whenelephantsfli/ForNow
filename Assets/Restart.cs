@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+﻿ 	using UnityEngine;
 using System.Collections;
 //using UnityEditor.SceneManagement;
 
@@ -18,9 +18,12 @@ public class Restart : MonoBehaviour {
 
 		if (other.CompareTag("Player")){
 			print ("RESTART");
+			Application.LoadLevel(1); } 
 		//	Application.LoadLevel(Application.loadedLevel);
 
 		}
 
-	}
 }
+
+
+
