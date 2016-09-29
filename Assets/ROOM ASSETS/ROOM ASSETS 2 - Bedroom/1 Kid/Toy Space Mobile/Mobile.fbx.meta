@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 5d5f0b0a96f61443f84f079a8a77b5fa
+timeCreated: 1474834918
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Earth
+    100002: Earth.2
+    100004: Frame
+    100006: //RootNode
+    100008: Planet
+    100010: Planet.2
+    100012: Rocket
+    100014: 'Rocket Blue '
+    100016: Rocket Red
+    100018: Rocket.1
+    100020: Star
+    100022: Star Green
+    100024: Star Pink
+    100026: Star Purple
+    100028: Star Yellow
+    100030: Star.2
+    100032: Star.3
+    100034: Star.4
+    100036: Strings
+    100038: Sun
+    400000: Earth
+    400002: Earth.2
+    400004: Frame
+    400006: //RootNode
+    400008: Planet
+    400010: Planet.2
+    400012: Rocket
+    400014: 'Rocket Blue '
+    400016: Rocket Red
+    400018: Rocket.1
+    400020: Star
+    400022: Star Green
+    400024: Star Pink
+    400026: Star Purple
+    400028: Star Yellow
+    400030: Star.2
+    400032: Star.3
+    400034: Star.4
+    400036: Strings
+    400038: Sun
+    2300000: Earth
+    2300002: Earth.2
+    2300004: Frame
+    2300006: //RootNode
+    2300008: Planet
+    2300010: Planet.2
+    2300012: Rocket
+    2300014: 'Rocket Blue '
+    2300016: Rocket Red
+    2300018: Rocket.1
+    2300020: Star
+    2300022: Star Green
+    2300024: Star Pink
+    2300026: Star Purple
+    2300028: Star Yellow
+    2300030: Star.2
+    2300032: Star.3
+    2300034: Star.4
+    2300036: Sun
+    3300000: Earth
+    3300002: Earth.2
+    3300004: Frame
+    3300006: //RootNode
+    3300008: Planet
+    3300010: Planet.2
+    3300012: Rocket
+    3300014: 'Rocket Blue '
+    3300016: Rocket Red
+    3300018: Rocket.1
+    3300020: Star
+    3300022: Star Green
+    3300024: Star Pink
+    3300026: Star Purple
+    3300028: Star Yellow
+    3300030: Star.2
+    3300032: Star.3
+    3300034: Star.4
+    3300036: Sun
+    4300000: Mobile
+    4300002: Frame
+    4300004: Sun
+    4300006: Star Pink
+    4300008: Star
+    4300010: Star Yellow
+    4300012: Star.2
+    4300014: Star Purple
+    4300016: Star.3
+    4300018: Star Green
+    4300020: Star.4
+    4300022: Rocket Red
+    4300024: Rocket.1
+    4300026: 'Rocket Blue '
+    4300028: Rocket
+    4300030: Planet
+    4300032: Planet.2
+    4300034: Earth
+    4300036: Earth.2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

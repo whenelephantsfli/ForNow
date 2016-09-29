@@ -1,0 +1,99 @@
+fileFormatVersion: 2
+guid: 762193dd97d6c4e478735528804d3065
+timeCreated: 1474833608
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera001
+    100002: Camera001.target
+    100004: Direct0011.target
+    100006: E_SinFin
+    100008: //RootNode
+    100010: Guitar_Bo0
+    100012: Guitar_Bod
+    100014: Guitar_Rop
+    400000: Camera001
+    400002: Camera001.target
+    400004: Direct0011.target
+    400006: E_SinFin
+    400008: //RootNode
+    400010: Guitar_Bo0
+    400012: Guitar_Bod
+    400014: Guitar_Rop
+    2300000: E_SinFin
+    2300002: Guitar_Bo0
+    2300004: Guitar_Bod
+    2300006: Guitar_Rop
+    3300000: E_SinFin
+    3300002: Guitar_Bo0
+    3300004: Guitar_Bod
+    3300006: Guitar_Rop
+    4300000: E_SinFin
+    4300002: Guitar_Bod
+    4300004: Guitar_Bo0
+    4300006: Guitar_Rop
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
